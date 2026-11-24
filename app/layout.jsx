@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Elsewhere Travel Co. | Thoughtful Journeys",description:"Small-group adventures and tailor-made journeys for curious travellers."};export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
